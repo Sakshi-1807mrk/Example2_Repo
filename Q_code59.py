@@ -17,3 +17,5 @@ a={"sakshi","mayuri","sana"}
 # it will show set elements in random order as they cannot be accessed by index
 for i in a:
     print(i)
+
+print("Adding the changes by RUTIK")
